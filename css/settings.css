@@ -1,0 +1,18 @@
+h1{
+    display:blue;
+    font-size:40px;
+    padding: 5px;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+h2 {
+    font-size: 25px;
+}
+p {
+    font-size: 15px;
+}
+HTML {
+    background-color: #d4e8ee;
+    font-size:20px;
+}
+

@@ -1,0 +1,15 @@
+img {
+    height: 350px;
+}
+
+div {
+    display: flex;
+    /* align-content: center; */
+    /* align-items: center; */
+    justify-content: center;
+    padding-top: 80px;
+}
+
+HTML {
+    background-color: #d4e8ee;
+}

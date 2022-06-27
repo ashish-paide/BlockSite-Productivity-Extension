@@ -1,0 +1,38 @@
+
+header {
+    font-size: 20;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+label.time {
+    font-size: 50px;
+    padding-left: 20px;
+}
+label.distract {
+    font-size: 25px;
+    padding-left: 10px;
+}
+#numDistract {
+    font-weight: bold;
+}
+#minutes, #seconds {
+    padding-left:5px;
+}
+#changeState, #settingsButton {
+    padding: 5px;
+}
+#changeState{
+    margin: 10px;
+    margin-left: 20px;
+}
+
+#settingsButton {
+    margin-left: 10px;
+}
+
+HTML {
+    /* font-family: "Plantino Linotype"; */
+    background-color: #d4e8ee;
+    width: 200px;
+    height: 110px;
+}
